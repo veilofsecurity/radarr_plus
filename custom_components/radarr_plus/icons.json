@@ -1,0 +1,26 @@
+{
+  "entity": {
+    "sensor": {
+      "movies": {
+        "default": "mdi:television"
+      },
+      "queue": {
+        "default": "mdi:download"
+      }
+    }
+  },
+  "services": {
+    "get_missing_movies": {
+      "service": "mdi:movie-off"
+    },
+    "get_movies": {
+      "service": "mdi:filmstrip"
+    },
+    "get_queue": {
+      "service": "mdi:download"
+    },
+    "search_movies": {
+      "service": "mdi:magnify-scan"
+    }
+  }
+}

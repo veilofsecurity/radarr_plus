@@ -1,0 +1,13 @@
+{
+  "domain": "radarr_plus",
+  "name": "Radarr Plus",
+  "codeowners": [],
+  "config_flow": true,
+  "documentation": "https://github.com/veilofsecurity/radarr_plus",
+  "integration_type": "service",
+  "iot_class": "local_polling",
+  "issue_tracker": "https://github.com/veilofsecurity/radarr_plus/issues",
+  "loggers": ["aiopyarr"],
+  "requirements": ["aiopyarr==23.4.0"],
+  "version": "0.1.0"
+}
